@@ -6,7 +6,6 @@ FrontEnd Developer!
 
 I love to develop
 
-# 💫 About Me:
 🌍 I'm based in Chennai<br>✉️ You can contact me at michaelalvinalbert@gmail.com<br>🧠 I'm learning React JS, Figma<br>🤝 I'm open to collaborating on Others Frontend Projects<br>⚡ Fun fact I love coding
 
 
@@ -26,4 +25,3 @@ I love to develop
 ---
 [![](https://visitcount.itsvg.in/api?id=alvin-dotcom&icon=8&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
