@@ -11,7 +11,7 @@ I love to develop
 * 🧠  I'm learning React JS, Angular JS, Figma
 * 🤝  I'm open to collaborating on Others Frontend Projects
 
-<a href="https://www.github.com/https://github.com/alvin-dotcom" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/alvin-dotcom" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/https://github.com/alvin-dotcom?logo=github&style=for-the-badge&color=0891b2&labelColor=ffffff" /></a>
 ### Skills
 
