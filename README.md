@@ -4,7 +4,7 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 FrontEnd Developer!
 -------------------
 
-I love to develop
+I love to develop !
 
 🌍 Chennai based developer<br>✉️ You can contact me at [michaelalvinalbert@gmail.com](mailto:michaelalvinalbert@gmail.com)<br>🧠 I'm learning React JS, Figma<br>🤝 I'm open to collaborating on others Frontend projects<br>⚡ Fun fact: I love to create
 
