@@ -6,7 +6,7 @@ FrontEnd Developer!
 
 I love to develop !
 
-🌍 Chennai based developer<br>✉️ You can contact me at [michaelalvinalbert@gmail.com](mailto:michaelalvinalbert@gmail.com)<br>🧠 I'm learning React JS, Figma<br>🤝 I'm open to collaborating on others Frontend projects<br>⚡ Fun fact: I love to create
+🌍 Chennai based developer<br>✉️ You can contact me at [michaelalvinalbert@gmail.com](mailto:michaelalvinalbert@gmail.com)<br>🧠 I'm learning React JS, Figma<br>🤝 I'm open to collaborating on others Frontend projects<br>
 
 
 ## 🌐 Socials:
