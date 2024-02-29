@@ -1,12 +1,12 @@
 Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)This is Alvin !!
 ============================================================================================================================================
 
-FrontEnd Developer!
+REACT Developer!
 -------------------
 
 I love to develop !
 
-🌍 Chennai based developer<br>✉️ You can contact me at [michaelalvinalbert@gmail.com](mailto:michaelalvinalbert@gmail.com)<br>🧠 I'm currently learning React JS, Figma<br>🤝 I'm open to collaborate on others Frontend projects<br>
+🌍 Chennai based developer<br>✉️ You can contact me at [michaelalvinalbert@gmail.com](mailto:michaelalvinalbert@gmail.com)<br>🧠 I'm currently learning Next JS, Figma<br>🤝 I'm open to collaborate on others Frontend projects<br>
 
 
 ## 🌐 Socials:
