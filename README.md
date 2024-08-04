@@ -4,7 +4,7 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 FULL STACK Developer!
 -------------------
 
-I love to develop !
+Pre Final Year Student At SRMIST
 
 🌍 Chennai based developer<br>✉️ You can contact me at [michaelalvinalbert@gmail.com](mailto:michaelalvinalbert@gmail.com)<br>🧠 I'm currently learning Figma, WebFlow<br>🤝 I'm open to collaborate on others projects<br>
 
